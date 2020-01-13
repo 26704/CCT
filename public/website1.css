@@ -1,12 +1,11 @@
 h2 {
   color: limegreen;
-    
 }
 body {
   background-color: black;
 }
 p {
-  color:white;
+  color: white;
 }
 a:link {
   color: white;
@@ -32,8 +31,7 @@ a:active {
   text-decoration: underline;
 }
 ul {
-  color:white;
-  
+  color: white;
 }
 center {
   text-align: center;
